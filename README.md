@@ -1,4 +1,4 @@
-# Image Effect
+# Image Split
 
 A lightweight split image animation in canvas.
 
