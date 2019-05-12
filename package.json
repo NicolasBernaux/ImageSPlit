@@ -1,0 +1,15 @@
+{
+  "name": "my-webgl-animated-image",
+  "version": "1.0.0",
+  "description": "A small script to split image",
+  "repository": {},
+  "keywords": [
+    "threeJS",
+    "Image animation"
+  ],
+  "author": "Nicolas Bernaux",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^2.1.2"
+  }
+}
