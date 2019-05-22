@@ -1,11 +1,10 @@
-# Demo
-
-Visit the [live demo here](http://imagesplit.nicolasbernaux.com)
-
-
 # Image Split
 
 A lightweight split image animation in canvas.
+
+### Demo
+
+Visit the [live demo here](http://imagesplit.nicolasbernaux.com)
 
 ### Usage
 ``` javascript
